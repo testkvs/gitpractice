@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 defasdasdas
-=======
 defadsad
->>>>>>> abf3d163c4c16efe9add28653a8192a2795d9a69
+
